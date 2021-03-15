@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">layout</string>
+    <string name="unlock_name">잠금해제</string>
+    <string name="list_name">출입이력</string>
+    <string name="policy_name">보안강화</string>
+    <string name="image_name">침입이력</string>
+</resources>

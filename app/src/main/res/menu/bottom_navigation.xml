@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/mood"
+        android:icon="@drawable/ic_lock"
+        android:title="@string/unlock_name"
+        app:cnb_iconColor="@color/navigation_color_mood"/>
+    <item
+        android:id="@+id/habit_tracker"
+        android:icon="@drawable/ic_list"
+        android:title="@string/list_name"
+        app:cnb_iconColor="@color/navigation_color_habit"/>
+    <item
+        android:id="@+id/add"
+        android:icon="@drawable/ic_policy"
+        android:title="@string/policy_name"
+        app:cnb_iconColor="@color/navigation_color_add"/>
+    <item
+        android:id="@+id/chart"
+        android:icon="@drawable/ic_pic"
+        android:title="@string/image_name"
+        app:cnb_iconColor="@color/navigation_color_chart"/>
+
+
+</menu>
